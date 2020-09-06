@@ -1,3 +1,4 @@
-# Shubhamsingh.github.io
-Link to access portfolio
- https://shubmsingh.github.io/Shubhamsingh.github.io/
+# Shubham Singh
+## Portfolio Website
+The website is live @
+# https://shubham.byticians.com
